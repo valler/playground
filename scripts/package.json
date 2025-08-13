@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "@valler/playground-scripts",
+  "type": "module",
+  "imports": {
+    "#src/*": "@valler/playground-src/*"
+  },
+  "devDependencies": {
+    "@types/node": "^24.2.1"
+  },
+  "dependencies": {
+    "@valler/playground-src": "*"
+  }
+}

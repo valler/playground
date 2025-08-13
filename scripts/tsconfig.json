@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "target": "esnext",
+    "lib": ["ESNext"],
+    "verbatimModuleSyntax": true,
+    "erasableSyntaxOnly": true,
+    "resolvePackageJsonImports": true,
+  }
+}

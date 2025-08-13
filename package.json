@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "@valler/playground",
+  "version": "0.0.0",
+  "workspaces": [
+    "src",
+    "scripts"
+  ]
+}

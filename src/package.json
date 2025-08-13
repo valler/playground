@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "name": "@valler/playground-src",
+  "type": "module",
+  "files": [
+    "manifest.json"
+  ],
+  "exports": {
+    "./manifest.json": "./manifest.json"
+  }
+}
